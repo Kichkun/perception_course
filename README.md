@@ -9,9 +9,9 @@ About us: we are the [Mobile robotics Lab.](https://sites.skoltech.ru/mobilerobo
  * [L02: Gaussians](https://www.youtube.com/watch?v=ja7VCtiyKps&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=2)
  * [L03: Gaussian II](https://www.youtube.com/watch?v=3XvHDKRzAs8&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=3)
  * [L04: Bayes Filter and Kalman Filter](https://www.youtube.com/watch?v=9ckoViG3pYE&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=4)
- * [L05: Motion and Sensor Models](https://www.youtube.com/watch?v=0y63AnAhD8k&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=5)
- * [L06: EKF and Localization](https://www.youtube.com/watch?v=0y63AnAhD8k&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=6)
- * L07: Particle Filter and Monte-Carlo Localization
+ * [L05: Motion and Sensor Models](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=5)
+ * [L06: EKF and Localization](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=6)
+ * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=8&t=0s)
  * L08: SLAM
 
 
