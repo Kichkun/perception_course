@@ -1,6 +1,8 @@
-# Perception in Robotics course T3 2020
+# Perception in Robotics course T3 2019-2020
 Perception in Robotics course, at Skoltech, MS in Data Science, during T3, 2020.
 About us: we are the [Mobile robotics Lab.](https://sites.skoltech.ru/mobilerobotics/) at [Skoltech](https://www.skoltech.ru/en)
+
+This repoository includes all material used during the course: Class notes, unedited videos of the lectures and problem sets.
 
 
 ### [Link to the YouTube channel with video lectures](https://www.youtube.com/playlist?list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn)
@@ -13,6 +15,14 @@ About us: we are the [Mobile robotics Lab.](https://sites.skoltech.ru/mobilerobo
  * [L06: EKF and Localization](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=6)
  * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=7)
  * [L08: EKF SLAM with known correspondences](https://www.youtube.com/watch?v=w7XaxW-dIbI&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=8)
+ * [L09: Data Association](https://www.youtube.com/watch?v=wHRvTW6NJEs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=9)
+ * L10: GraphSLAM
+ * L11: Squared Root SAM
+ * L12: Incremental SAM and Pose SLAM
+ * L13: 3D Poses and RBT
+ * L14: Point CLoud Aligment
+ * L15: Mapping
+ * L16: Visual SLAM
 
 
 ### [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob)
