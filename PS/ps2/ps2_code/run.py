@@ -74,6 +74,7 @@ def get_cli_args():
     parser.add_argument('-a',
                         '--alphas',
                         nargs=4,
+                        type=float,
                         metavar=('A1', 'A2', 'A3', 'A4'),
                         action='store',
                         help='Squared root of alphas, used for transition noise in action space (M_t). (format: a1 a2 a3 a4).',
