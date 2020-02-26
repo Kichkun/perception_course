@@ -4,6 +4,7 @@ An abstract base class to implement the various localization filters in the task
 
 from abc import ABC
 from abc import abstractmethod
+from copy import copy
 
 import numpy as np
 
@@ -39,8 +40,8 @@ class LocalizationFilter(ABC):
         self.motion_dim = 3  # [drot1, dtran, drot2]
         self.obs_dim = 1     # [bearing]
 
-        self._state = initial_state
-        self._state_bar = initial_state
+        self._state = copy(initial_state)
+        self._state_bar = copy(initial_state)
 
         # Filter noise parameters.
         self._alphas = alphas
