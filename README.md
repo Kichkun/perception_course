@@ -16,8 +16,8 @@ This repoository includes all material used during the course: Class notes, uned
  * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=7)
  * [L08: EKF SLAM with known correspondences](https://www.youtube.com/watch?v=w7XaxW-dIbI&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=8)
  * [L09: Data Association](https://www.youtube.com/watch?v=wHRvTW6NJEs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=9)
- * L10: GraphSLAM
- * L11: Squared Root SAM
+ * [L10: Smoonthing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=10)
+ * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=11)
  * L12: Incremental SAM and Pose SLAM
  * L13: 3D Poses and RBT
  * L14: Point CLoud Aligment
