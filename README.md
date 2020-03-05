@@ -18,9 +18,9 @@ This repoository includes all material used during the course: Class notes, uned
  * [L09: Data Association](https://www.youtube.com/watch?v=wHRvTW6NJEs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=9)
  * [L10: Smoonthing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=10)
  * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=11)
- * L12: Incremental SAM and Pose SLAM
+ * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=12)
  * L13: 3D Poses and RBT
- * L14: Point CLoud Aligment
+ * L14: Point Cloud Aligment
  * L15: Mapping
  * L16: Visual SLAM
 
