@@ -19,10 +19,10 @@ This repoository includes all material used during the course: Class notes, uned
  * [L10: Smoonthing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=10)
  * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=11)
  * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=12)
- * L13: 3D Poses and RBT
- * L14: Point Cloud Aligment
- * L15: Mapping
- * L16: Visual SLAM
+ * [L13: 3D Poses and RBT](https://www.youtube.com/watch?v=_95xHwEUmYE&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=13)
+ * [L14: Point Cloud Aligment](https://www.youtube.com/watch?v=eg99-AYU2ng&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=14)
+ * [L15: Mapping](https://www.youtube.com/watch?v=m5f4JZGRJmg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=15)
+ * [L16: Visual SLAM](https://www.youtube.com/watch?v=7IE00Ghbv-0&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=16)
 
 
 ### [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob)
