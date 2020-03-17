@@ -22,7 +22,7 @@ This repoository includes all material used during the course: Class notes, uned
  * [L13: 3D Poses and RBT](https://www.youtube.com/watch?v=_95xHwEUmYE&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=13)
  * [L14: Point Cloud Aligment](https://www.youtube.com/watch?v=eg99-AYU2ng&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=14)
  * [L15: Mapping](https://www.youtube.com/watch?v=m5f4JZGRJmg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=15)
- * [L16: Visual SLAM](https://www.youtube.com/watch?v=7IE00Ghbv-0&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=16)
+ * [L16: Visual SLAM](https://www.youtube.com/watch?v=7IE00Ghbv-0)
 
 
 ### [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob)
